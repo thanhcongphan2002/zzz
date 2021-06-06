@@ -1,0 +1,1026 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Laptop &#8211; My WordPress</title>
+	<atom:link href="http://localhost/wordpress/category/laptop-may-tinh-bang-msi-acer/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Sat, 29 May 2021 07:50:52 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Blog</title>
+		<link>/laptop-may-tinh-bang-msi-acer/laptop/</link>
+					<comments>/laptop-may-tinh-bang-msi-acer/laptop/#comments</comments>
+		
+		<dc:creator><![CDATA[lehuuhoang]]></dc:creator>
+		<pubDate>Sat, 22 May 2021 04:00:09 +0000</pubDate>
+				<category><![CDATA[Laptop]]></category>
+		<category><![CDATA[LAPTOP MAYTINHXACHTAY MSI ACER ASUS]]></category>
+		<guid isPermaLink="false">/?p=14</guid>
+
+					<description><![CDATA[ASDSADSADASD]]></description>
+										<content:encoded><![CDATA[
+<h1>Hướng dẫn thêm bài viết mới trong WordPress</h1>
+
+
+
+<p><img loading="lazy" src="https://secure.gravatar.com/avatar/451973a1d4a4645381aa35f93db4716e?s=80&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/451973a1d4a4645381aa35f93db4716e?s=160&amp;d=mm&amp;r=g 2x" alt="Hathao" width="80" height="80" /> được đăng bởi <a href="https://cunghocwp.com/author/hathao/">Hathao</a><a href="https://cunghocwp.com/them-bai-viet-moi-trong-wordpress/">03/10/2020</a> tr</p>
+<p>ong chuyên mục <a href="https://cunghocwp.com/wordpress/">WordPress</a><a href="https://cunghocwp.com/them-bai-viet-moi-trong-wordpress/#"> 0 </a><a href="https://cunghocwp.com/them-bai-viet-moi-trong-wordpress/#"> 0</a><a href="https://cunghocwp.com/them-bai-viet-moi-trong-wordpress/"> 0</a>0CHIA SẺ391LƯỢT XEM<a href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fcunghocwp.com%2Fthem-bai-viet-moi-trong-wordpress%2F"><strong>Share on Facebook</strong></a><a href="https://twitter.com/intent/tweet?text=H%C6%B0%E1%BB%9Bng+d%E1%BA%ABn+th%C3%AAm+b%C3%A0i+vi%E1%BA%BFt+m%E1%BB%9Bi+trong+WordPress&amp;url=https%3A%2F%2Fcunghocwp.com%2Fthem-bai-viet-moi-trong-wordpress%2F"><strong>Share on Twitter</strong></a></p>
+
+
+
+<p>Bạn đang muốn tạo một bài viết mới trong WordPress? Bạn muốn tìm hiểu về tất cả các tính năng bài viết WordPress?</p>
+
+
+
+<blockquote>
+<p style="text-align: left;"><em><strong>Mặc dù một số người cho rằng việc thêm một bài viết WordPress mới là khá đơn giản nhưng nhiều người dùng mới có thể bị choáng ngợp bởi giao diện của nền tảng này.</strong></em></p>
+</blockquote>
+<p><span id="more-14"></span></p>
+
+<p><iframe loading="lazy" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/YhLURtBKUD0?start=120" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+
+<blockquote>
+<p><em><strong>1 So hinh anh dep</strong></em></p>
+</blockquote>
+<p><!--more--></p>
+
+<a href='/laptop-may-tinh-bang-msi-acer/laptop/attachment/68___gieng_lang_quang_phu_cau__ung_hoa___anh_viet_manh-16_51_07_908/'><img width="150" height="102" src="/wp-content/uploads/2021/05/68___gieng_lang_quang_phu_cau__ung_hoa___anh_viet_manh-16_51_07_908.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>
+<a href='/laptop-may-tinh-bang-msi-acer/laptop/attachment/net-cuoi-be-gai-9-1527053440039156820618/'><img width="150" height="100" src="/wp-content/uploads/2021/05/net-cuoi-be-gai-9-1527053440039156820618.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>
+
+<p>ả những người dùng hiểu biết hơn cũng ngạc nhiên khi tìm thấy những tính năng mới trên màn hình chỉnh sửa bài viết.</p>
+
+
+
+<p>Trong bài viết này, CunghocWP sẽ hướng dẫn cách thêm bài viết mới và cách sử dụng tất cả các tính năng trên màn hình để tạo nội dung tốt hơn.</p>
+
+
+
+<div class="wp-block-image"> </div>
+
+
+
+<p>CunghocWP chia hướng dẫn này thành ba phần để bạn có cái nhìn tổng quát hơn:</p>
+
+
+
+<ul>
+<li>Tạo một bài viết mới trong WordPress bằng trình soạn thảo mặc định (đề xuất)</li>
+<li>Tạo một bài viết mới trong WordPress bằng trình soạn thảo classic editor</li>
+<li>Các mẹo bổ sung để tạo bài viết blog tốt hơn</li>
+</ul>
+
+
+
+<h2 id="default"><strong>Tạo bài viết mới trong WordPress bằng soạn thảo mặc định</strong></h2>
+
+
+
+<p>Vào tháng 12 năm 2018, WordPress đã giới thiệu một trình soạn thảo khối mới còn được gọi là Gutenberg khá đơn giản, nhưng đừng để vẻ ngoài đánh lừa bạn.</p>
+
+
+
+<p>Có rất nhiều tính năng mạnh mẽ được bổ sung vào trình soạn thảo này. Chúng tôi sẽ giải thích tất cả và giúp bạn khám phá tiềm năng thực sự của các tính năng này.</p>
+
+
+
+<h3><strong>Thêm tiêu đề và Content Blocks</strong></h3>
+
+
+
+<p>Trình soạn thảo block editor WordPress đi kèm với một giao diện viết gọn gàng. Bạn cần nhập tiêu đề bài viết ở trên cùng.</p>
+
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img class="wp-image-104064" src="https://cunghocwp.com/wp-content/uploads/2020/08/Pasted-727.jpg.webp" alt="" /></figure>
+</div>
+
+
+
+<p>Để thêm nội dung, bạn cần thêm một khối (block). Có nhiều nút <strong>add block</strong> trên màn hình để bạn nhấp chọn và thêm khối.</p>
+
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img class="wp-image-104065" src="https://cunghocwp.com/wp-content/uploads/2020/08/Pasted-728.jpg.webp" alt="" /></figure>
+</div>
+
+
+
+<p>Nếu không muốn sử dụng chuột để nhấp, bạn có thể sử dụng phím shortcut bằng cách nhập /image để tìm kiếm và thêm khối.</p>
+
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://cunghocwp.com/wp-content/uploads/2020/08/selectblockwhilewriting.gif" alt="Chọn khối trong khi viết" /></figure>
+</div>
+
+
+
+<p>Tất cả các yếu tố nội dung được bao bọc trong một khối. WordPress đi kèm với các khối cho tất cả các item nội dung phổ biến bao gồm đoạn văn, cột, hình ảnh, thư viện, nhúng, shortcode, widget, vv…</p>
+
+
+
+<p>Một số plugin WordPress cũng có thể thêm các khối riêng để thêm các tính năng khác như contact form, SEO, vv… (chúng ta sẽ nói thêm về điều này ở phần sau của bài viết).</p>
+
+
+
+<h3><strong>Thêm hình ảnh, video và phương tiện khác</strong></h3>
+
+
+
+<p>Bạn có thể thêm hình ảnh bằng cách thêm khối hình ảnh và upload hoặc chọn hình ảnh bạn muốn thêm.</p>
+
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img class="wp-image-104066" src="https://cunghocwp.com/wp-content/uploads/2020/08/Pasted-729.jpg.webp" alt="" /></figure>
+</div>
+
+
+
+<p>Nếu bạn muốn đặt văn bản và hình ảnh cạnh nhau thì có thể sử dụng khối <strong>‘Media &amp; Text’</strong> để bọc văn bản xung quanh hình ảnh trong WordPress.</p>
+
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img class="wp-image-104067" src="https://cunghocwp.com/wp-content/uploads/2020/08/Pasted-730.jpg.webp" alt="" /></figure>
+</div>
+
+
+
+<p>Trình soạn thảo WordPress cũng đi kèm với khối <strong>Gallery</strong> hiển thị hình ảnh theo hàng và cột với layout lưới.</p>
+
+
+
+<p>Bạn chỉ cần thêm khối Gallery, sau đó upload hoặc chọn hình ảnh từ media library WordPress.</p>
+
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img class="wp-image-104068" src="https://cunghocwp.com/wp-content/uploads/2020/08/Pasted-731.jpg.webp" alt="" /></figure>
+</div>
+
+
+
+<p>Mặc dù khối gallery khá quyền lực nhưng bạn có thể sẽ cần tới các tính năng thư viện nâng cao khác như album, sắp xếp hình ảnh, vv… Trong trường hợp này, bạn nên sử dụng một trong các plugin gallery WordPress.</p>
+
+
+
+<p>Bạn muốn nhúng video vào nội dung của mình? Rất đơn giản.</p>
+
+
+
+<p>Trình soạn thảo WordPress mặc định đi kèm với các embed block cho tất cả các nhà cung cấp phổ biến.</p>
+
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img class="wp-image-104069" src="https://cunghocwp.com/wp-content/uploads/2020/08/Pasted-732.jpg.webp" alt="" /></figure>
+</div>
+
+
+
+<p>Bạn chỉ cần copy và dán URL video vào một khối đoạn văn, WordPress sẽ tự động chuyển đổi thành một khối embed video.</p>
+
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img class="wp-image-104070" src="https://cunghocwp.com/wp-content/uploads/2020/08/Pasted-733.jpg.webp" alt="" /></figure>
+</div>
+
+
+
+<p>Bạn có thể sử dụng khối video để upload trực tiếp video lên trang web của mình nhưng việc này sẽ làm chậm trang web và thậm chí có thể làm hỏng máy chủ hosting WordPress.</p>
+
+
+
+<p>Thay vào đó, bạn nên upload video lên một dịch vụ như YouTube hoặc Vimeo, sau đó nhúng vào các bài viết WordPress.</p>
+
+
+
+<p>Để biết thêm chi tiết, hãy xem hướng dẫn của CunghocWP về lý do tại sao bạn không bao giờ nên upload video lên trang web WordPress.</p>
+
+
+
+<h3><strong>Thêm Categories và Tags</strong></h3>
+
+
+
+<p>WordPress cho phép bạn sắp xếp các bài viết thành các categories và tags (danh mục và thẻ) để sắp xếp nội dung thành các phần và topic.</p>
+
+
+
+<p>Ngoài ra việc này cũng hỗ trợ SEO và giúp người dùng của bạn tìm thấy nội dung họ đang tìm kiếm một cách dễ dàng hơn.</p>
+
+
+
+<p>Hộp meta <strong>Categories</strong> và meta <strong>Tags</strong> nằm ở cột bên phải, trong phần <strong>Document</strong>.</p>
+
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img class="wp-image-104071" src="https://cunghocwp.com/wp-content/uploads/2020/08/Pasted-734.jpg.webp" alt="" /></figure>
+</div>
+
+
+
+<h3><strong>Thêm Featured Image (hình ảnh nổi bật)</strong></h3>
+
+
+
+<p>Hình ảnh nổi bật (còn được gọi là thumbnail) là hình ảnh chính đại diện cho nội dung của bài viết và được hiển thị nổi bật trên trên các bài viết, trang lưu trữ blog cũng như trên trang chủ của các website tin tức, tạp chí và blog.</p>
+
+
+
+<p>Hầu hết tất cả các theme WordPress đều hỗ trợ chức năng hình ảnh nổi bật. Bạn sẽ tìm thấy tùy chọn để thêm hình ảnh nổi bật vào bài viết ở cột bên phải trong cài đặt Document.</p>
+
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img class="wp-image-104072" src="https://cunghocwp.com/wp-content/uploads/2020/08/Pasted-735.jpg.webp" alt="" /></figure>
+</div>
+
+
+
+<p>Bạn chỉ cần click vào ‘<strong>Set featured image’</strong> và chọn hoặc upload ảnh muốn sử dụng làm hình ảnh nổi bật.</p>
+
+
+
+<p>Điều quan trọng là bạn không được nhầm lẫn giữa hình ảnh nổi bật với hình ảnh bìa (đây là một tính năng mới). Bạn có thể đọc thêm bài so sánh giữa ảnh bìa với ảnh nổi bật của CunghocWP để biết thêm chi tiết.</p>
+
+
+
+<h3><strong>Thêm đoạn trích (Tóm tắt bài viết)</strong></h3>
+
+
+
+<p>Đoạn trích là phần tóm tắt bài viết trên blog hoặc bài viết. Hầu hết các theme WordPress đều có thể tự động tạo đoạn trích từ một vài dòng đầu tiên của bài viết.</p>
+
+
+
+<p>Tuy nhiên, đoạn trích tự động này không phải lúc nào cũng có ý nghĩa hoặc hấp dẫn. Do vậy, bạn nên thêm đoạn trích theo cách thủ công.</p>
+
+
+
+<p>Bạn có thể thêm đoạn trích vào hộp <strong>Excerpt</strong> nằm dưới cột cài đặt document ở bên phải.</p>
+
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img class="wp-image-104073" src="https://cunghocwp.com/wp-content/uploads/2020/08/Pasted-736.jpg.webp" alt="" /></figure>
+</div>
+
+
+
+<h3><strong>Thay đổi Slug URL của bài viết hoặc Permalink</strong></h3>
+
+
+
+<p>Theo mặc định, WordPress sử dụng URL thân thiện với SEO cho các bài viết trên blog và tự động sử dụng tiêu đề bài viết làm permalink.</p>
+
+
+
+<p>Tuy nhiên, một số người dùng có thể muốn thay đổi permalink để SEO và thân thiện với người dùng hơn. Có hai cách để làm điều này.</p>
+
+
+
+<p>Nhấp vào tiêu đề bài viết, bạn sẽ thấy tùy chọn thay đổi permalink phía trên trường tiêu đề. Ngoài ra, bạn có thể thay đổi permalink từ tab <strong>Permalink</strong> trong cột cài đặt Document.</p>
+
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img class="wp-image-104074" src="https://cunghocwp.com/wp-content/uploads/2020/08/Pasted-737.jpg.webp" alt="" /></figure>
+</div>
+
+
+
+<h3><strong>Thay đổi Author (tác giả)</strong></h3>
+
+
+
+<p>Nếu bạn điều hành một trang web WordPress đa tác giả thì có thể thay đổi tác giả của bài viết và chỉ định bài viết đó cho một tác giả khác trên website.</p>
+
+
+
+<p>Bạn sẽ tìm thấy tùy chọn thay đổi author trong tab <strong>‘Status and Visibility’</strong> ở cột bên phải.</p>
+
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img class="wp-image-104075" src="https://cunghocwp.com/wp-content/uploads/2020/08/Pasted-738.jpg.webp" alt="" /></figure>
+</div>
+
+
+
+<h3><strong>Bật/Tắt Comments</strong></h3>
+
+
+
+<p>WordPress đi kèm với một hệ thống comment tích hợp cho phép người dùng để lại bình luận trên bài viết của bạn. Bạn có thể tắt bình luận cho từng bài viết từ tab <strong>Discussion</strong> nằm trong tab Document.</p>
+
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img class="wp-image-104076" src="https://cunghocwp.com/wp-content/uploads/2020/08/Pasted-739.jpg.webp" alt="" /></figure>
+</div>
+
+
+
+<p>Bạn cũng sẽ thấy tùy chọn cho phép pingback và trackback để nhận thông báo khi các blog khác liên kết đến một bài báo.</p>
+
+
+
+<p>Tuy nhiên, tùy chọn này chủ yếu được sử dụng để spam, vì vậy CunghocWP khuyên bạn nên tắt hoàn toàn pingback và trackback.</p>
+
+
+
+<h3><strong>Các tùy chọn do Plugin WordPress thêm vào</strong></h3>
+
+
+
+<p>Hầu hết các plugin WordPress phổ biến cũng sẽ thêm các tùy chọn riêng vào màn hình chỉnh sửa bài viết. Một số sẽ có sẵn dưới dạng khối trong khi số khác có sẵn dưới dạng hộp meta.</p>
+
+
+
+<p>Ví dụ: WPForms, plugin contact form WordPress tốt nhất thêm một khối để chèn contact form trong các bài viết và trang web.</p>
+
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img class="wp-image-104077" src="https://cunghocwp.com/wp-content/uploads/2020/08/Pasted-740.jpg.webp" alt="" /></figure>
+</div>
+
+
+
+<p>Một ví dụ tuyệt vời khác là Yoast SEO. Plugin này thêm một hộp meta bên dưới trình soạn thảo cho cài đặt SEO và một hộp khác trong thanh công cụ trên cùng.</p>
+
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img class="wp-image-104078" src="https://cunghocwp.com/wp-content/uploads/2020/08/Pasted-741.jpg.webp" alt="" /></figure>
+</div>
+
+
+
+<h3><strong>Tùy chọn publish</strong></h3>
+
+
+
+<p>Màn hình chỉnh sửa WordPress mặc định được chia thành hai cột. Cột bên trái là nơi viết nội dung và cột bên phải có tất cả cài đặt bài viết bao gồm cả tùy chọn publish.</p>
+
+
+
+<p>Hãy xem xét các tùy chọn Publish ở cột bên phải.</p>
+
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img class="wp-image-104079" src="https://cunghocwp.com/wp-content/uploads/2020/08/Pasted-742.jpg.webp" alt="" /></figure>
+</div>
+
+
+
+<p>1. Save draft link để lưu các thay đổi đã thực hiện cho một bài viết WordPress. Trình soạn thảo cũng sẽ tự động lưu các thay đổi khi bạn viết.</p>
+
+
+
+<p>2. Nút Preview sẽ mở bản xem trước trực tiếp bài viết hoặc trang trong tab trình duyệt mới.</p>
+
+
+
+<p>3. Sau khi hoàn tất việc chỉnh sửa bài viết, bạn có thể nhấp vào nút Publish để bài viết của bạn xuất hiện online.</p>
+
+
+
+<p>4. WordPress cung cấp một vài tùy chọn để kiểm soát mức độ hiển thị của bài viết. Tùy chọn mặc định là <strong>‘Public’</strong> nhưng vẫn có các tùy chọn để đặt bài viết ở chế độ riêng tư hoặc được bảo vệ bằng mật khẩu.</p>
+
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img class="wp-image-104080" src="https://cunghocwp.com/wp-content/uploads/2020/08/Pasted-743.jpg.webp" alt="" /></figure>
+</div>
+
+
+
+<p>5. WordPress cũng cho phép bạn kiểm soát thời gian publish bài viết. Tùy chọn mặc định là Publish immediately, nhưng bạn có thể lên lịch publish các bài viết hoặc thậm chí chọn một ngày trong quá khứ.</p>
+
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img class="wp-image-104081" src="https://cunghocwp.com/wp-content/uploads/2020/08/Pasted-744.jpg.webp" alt="" /></figure>
+</div>
+
+
+
+<p>6. Chọn hộp bên cạnh <strong>‘Stick to front page’</strong> để làm cho bài viết trở nên hấp dẫn hoặc nổi bật bằng cách cho bài viết cụ thể xuất hiện trên đầu các bài viết khác. Tìm hiểu thêm về các bài viết cố định và những gì bạn có thể làm.</p>
+
+
+
+<p>7. Tùy chọn xem xét trong thời gian chờ sẽ thêm trạng thái tùy chỉnh bên cạnh bài viết là<strong> ‘Pending review’</strong>. Tính năng này đặc biệt hữu ích trên các blog có nhiều tác giả chỉ có thể lưu bài viết và không publish.</p>
+
+
+
+<p>8. Click vào<strong> ‘Move to trash’</strong> nếu bạn muốn xóa một bài viết. WordPress sẽ gửi bài vào thùng rác. Các bài viết đã xóa sẽ vẫn còn trong thư mục thùng rác trong tối đa 30 ngày. Sau đó sẽ bị xóa vĩnh viễn.</p>
+
+
+
+<h3><strong>Chỉnh sửa tùy chọn màn hình</strong></h3>
+
+
+
+<p>Bạn có thể hiển thị và ẩn các bảng điều khiển khỏi màn hình chỉnh sửa bằng cách nhấp vào menu ba chấm ở góc trên cùng bên phải màn hình và click vào <strong>‘Options’</strong>.</p>
+
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img class="wp-image-104083" src="https://cunghocwp.com/wp-content/uploads/2020/08/Pasted-746.jpg.webp" alt="" /></figure>
+</div>
+
+
+
+<p>Thao tác này sẽ hiển thị popup để bạn chọn hoặc bỏ chọn các bảng.</p>
+
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img class="wp-image-104084" src="https://cunghocwp.com/wp-content/uploads/2020/08/Pasted-747.jpg.webp" alt="" /></figure>
+</div>
+
+
+
+<h3><strong>Các tùy chọn màn hình chỉnh sửa bài viết khác</strong></h3>
+
+
+
+<p>Có nhiều tùy chọn khác trên màn hình chỉnh sửa bài viết, hầu hết đều liên quan đến sự xuất hiện của màn hình chỉnh sửa bài viết và chính trình soạn thảo.</p>
+
+
+
+<p>Hãy cùng khám phá.</p>
+
+
+
+<p>Bạn có thể nhấp vào biểu tượng menu ba chấm ở góc trên cùng bên phải màn hình để thấy các tùy chọn với chức năng di chuyển thanh công cụ khối lên trên cùng, chế độ spotlight, chế độ toàn màn hình, chuyển đổi giữa trình soạn thảo trực quan hoặc trình soạn thảo code, quản lý các khối reusable block và các phím shortcut.</p>
+
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img class="wp-image-104085" src="https://cunghocwp.com/wp-content/uploads/2020/08/Pasted-748.jpg.webp" alt="" /></figure>
+</div>
+
+
+
+<p>Bên cạnh đó, bạn sẽ thấy một nút có biểu tượng bánh răng. Nhấp vào sẽ hiển thị/ẩn tài liệu bên phải và cột cài đặt khối.</p>
+
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img class="wp-image-104086" src="https://cunghocwp.com/wp-content/uploads/2020/08/Pasted-749.jpg.webp" alt="" /></figure>
+</div>
+
+
+
+<p>Ở góc trên bên trái màn hình, có một vài nút nữa. Ở bên phải là các nút block navigation cho phép bạn chuyển đến một khối trong bài viết.</p>
+
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img class="wp-image-104087" src="https://cunghocwp.com/wp-content/uploads/2020/08/Pasted-750.jpg.webp" alt="" /></figure>
+</div>
+
+
+
+<p>Tiếp theo, bạn sẽ thấy biểu tượng thông tin. Click vào để xem số liệu thống kê về bài viết như số từ, đoạn văn, header và khối.</p>
+
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img class="wp-image-104088" src="https://cunghocwp.com/wp-content/uploads/2020/08/Pasted-751.jpg.webp" alt="" /></figure>
+</div>
+
+
+
+<p>Sau đó, bạn có thể click vào <strong>Undo and Redo</strong> để hoàn tác các thay đổi đã thực hiện đối với bài viết trước khi lưu hoặc publish.</p>
+
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img class="wp-image-104089" src="https://cunghocwp.com/wp-content/uploads/2020/08/Pasted-752.jpg.webp" alt="" /></figure>
+</div>
+
+
+
+<p>Cuối cùng là nút <strong>Add block</strong> để chèn các khối vào trình soạn thảo bài viết.</p>
+
+
+
+<p>Trình soạn thảo WordPress mặc định khá mạnh mẽ.</p>
+
+
+
+<p>CunghocWP khuyến khích bạn tự khám phá mọi thứ khi viết bài trên blog và chú ý đến cài đặt khối riêng lẻ. Mỗi khối sẽ có các cài đặt khác nhau và bạn sẽ khám phá ra rất nhiều thủ thuật thú vị ở đó.</p>
+
+
+
+<h2 id="classic"><strong>Tạo bài viết mới trong WordPress bằng trình soạn thảo Classic Editor</strong></h2>
+
+
+
+<p>Nếu bạn vẫn đang sử dụng trình soạn thảo WordPress Classic Editor thì phần này dành cho bạn.</p>
+
+
+
+<p>Trình soạn thảo classic editor sẽ được hỗ trợ cho đến cuối năm 2021 và CunghocWP khuyên tất cả người dùng nên có kế hoạch chuyển sang trình soạn thảo WordPress mới.</p>
+
+
+
+<h3><strong>Hộp tiêu đề và nội dung</strong></h3>
+
+
+
+<p>Trong trình soạn thảo classic editor, các hộp tiêu đề và nội dung là những khu vực nổi bật nhất trên màn hình Add New Post (xem ảnh chụp màn hình bên dưới).</p>
+
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img class="wp-image-104090" src="https://cunghocwp.com/wp-content/uploads/2020/08/Pasted-753.png.webp" alt="" /></figure>
+</div>
+
+
+
+<p>Hình ảnh của bạn có thể trông hơi khác một chút tùy thuộc vào việc bạn đang sử dụng trình soạn thảo trực quan hay trình soạn thảo văn bản.</p>
+
+
+
+<p>Bạn có thể chuyển đổi giữa trình soạn thảo trực quan và trình soạn thảo văn bản trong khi viết bài nhưng chúng tôi khuyên bạn không nên chuyển đổi vì điều này có thể làm rối loạn định dạng bài viết.</p>
+
+
+
+<p>Visual Editor là một trình soạn thảo văn bản thân thiện với người dùng mới với các nút định dạng và layout trực quan đẹp mắt cho vùng nội dung. Mặt khác, trình soạn thảo văn bản là một trình soạn thảo thuần túy mà bạn có thể xem HTML hoặc viết riêng.</p>
+
+
+
+<p>Khu vực văn bản đầu tiên trên cùng là nơi thêm tiêu đề bài viết. Nếu bạn đang sử dụng cấu trúc URL thân thiện với SEO thì WordPress sẽ tự động tạo URL bài viết dựa trên tiêu đề bài viết. Bạn có thể chỉnh sửa URL bằng cách nhấp vào nút <strong>Edit</strong>.</p>
+
+
+
+<p>Khu vực nội dung là nơi bạn viết bài. Bạn có thể sử dụng các tùy chọn định dạng từ thanh công cụ hoặc sử dụng một trong nhiều phím shortcut có sẵn để tăng tốc quá trình viết bài.</p>
+
+
+
+<p>Nếu bạn đang sử dụng trình soạn thảo trực quan thì hãy tham khảo 14 mẹo này để thành thạo trình soạn thảo trực quan WordPress.</p>
+
+
+
+<p>Trong khu vực footer của trình soạn thảo nội dung, WordPress sẽ hiển thị số từ của bài viết. Nếu bạn muốn nhận số liệu thống kê số từ chi tiết hơn thì hãy xem hướng dẫn cách nhận thống kê số từ trong WordPress bằng Word Stats của CunghocWP.</p>
+
+
+
+<p>Khi bạn viết, WordPress sẽ tự động lưu bản nháp bài viết trong cơ sở dữ liệu WordPress.</p>
+
+
+
+<p>Ngay sau khi bạn lưu bản nháp hoặc viết thêm nội dung, WordPress sẽ tự động dọn dẹp bản nháp tạm thời và thay thế bằng một bản mới. Quá trình này sẽ giữ nguyên nội dung ngay cả khi có trục trặc về kết nối internet hoặc lỗi phần cứng. Hãy tham khảo hướng dẫn của CunghocWP để biết cách hoàn tác các thay đổi trong WordPress với các bản sửa đổi bài viết.</p>
+
+
+
+<p>Trình soạn thảo bài viết hiển thị bản nháp hiện tại và trạng thái tự động lưu ở footer bên cạnh số từ.</p>
+
+
+
+<h3><strong>Thêm hình ảnh và Media</strong></h3>
+
+
+
+<p>Giữa các trường tiêu đề và nội dung có một nút <strong>Add Media</strong> lớn. Bạn cần click vào nút này nếu muốn upload hình ảnh hoặc bất kỳ phương tiện nào khác lên bài viết WordPress của mình. Thao tác này sẽ khởi chạy trình upload media trong một popup.</p>
+
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img class="wp-image-104091" src="https://cunghocwp.com/wp-content/uploads/2020/08/Pasted-754.jpg.webp" alt="" /></figure>
+</div>
+
+
+
+<p>Click vào <strong>Select files</strong> để upload hình ảnh hoặc bất kỳ phương tiện nào khác lên trang web WordPress. Bạn cũng có thể tạo thư viện hình ảnh và audio playlist từ các file đã upload.</p>
+
+
+
+<p>WordPress đi kèm với một số công cụ chỉnh sửa hình ảnh cơ bản. Bạn có thể tham khảo hướng dẫn của CunghocWP để biết cách chỉnh sửa, lật, xoay và cắt hình ảnh trong WordPress.</p>
+
+
+
+<h3><strong>Tùy chọn publish</strong></h3>
+
+
+
+<p>Màn hình chỉnh sửa bài viết WordPress được chia thành hai cột. Cột bên trái chứa tiêu đề bài viết và trình soạn thảo nội dung. Cột bên phải chứa các các hộp meta khác nhau để định cấu hình cài đặt bài viết.</p>
+
+
+
+<p>Hộp meta trên cùng trong cột này có nhãn <strong>Publish</strong>. Đây là nơi quản lý tất cả các tùy chọn publish cho các bài viết.</p>
+
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img class="wp-image-104092" src="https://cunghocwp.com/wp-content/uploads/2020/08/Pasted-755.png.webp" alt="" /></figure>
+</div>
+
+
+
+<p><strong>1.</strong> Nút <strong>Save Draft</strong> lưu trữ bản nháp của bài viết hoặc trang mà bạn đang làm việc. WordPress cũng tự động lưu các bài viết khi bạn đang viết.</p>
+
+
+
+<p><strong>2.</strong> Nút <strong>Preview</strong> hiển thị bản xem trước trực tiếp bài viết, giúp bạn xem bài viết của mình trông như thế nào sau khi publish.</p>
+
+
+
+<p><strong>3.</strong> <strong>Status c</strong>ho phép bạn đặt trạng thái cho bài viết. WordPress tự động xử lý trạng thái bài viết cho các bản nháp và bài viết đã publish. Trừ khi bạn đang sử dụng một plugin để thêm các trạng thái tùy chỉnh, còn không thì bạn không cần để ý đến tùy chọn này.</p>
+
+
+
+<p><strong>4.</strong> Nhấp vào liên kết <strong>Edit</strong> bên cạnh khả năng hiển thị mở rộng. Tùy chọn đầu tiên dưới chế độ hiển thị sẽ làm cho bài viết của bạn trở nên hấp dẫn trên trang nhất. Các bài viết hấp dẫn trong WordPress giống như nội dung nổi bật được hiển thị trên tất cả các bài viết khác.</p>
+
+
+
+<p><strong>5.</strong> Tùy chọn tiếp theo để đặt mật khẩu bảo vệ bài viết trong WordPress .</p>
+
+
+
+<p><strong>6.</strong> Tùy chọn thứ ba dưới khả năng hiển thị được gắn nhãn riêng tư để bạn<strong> publish</strong> một bài viết trên trang web WordPress của mình một cách riêng tư. Các bài viết riêng tư sẽ hiển thị với những người dùng có quyền chỉnh sửa trên trang web của bạn.</p>
+
+
+
+<p><strong>7.</strong> Nhấp vào liên kết <strong>Edit</strong> bên cạnh<strong> Publish</strong>, WordPress sẽ hiển thị các tùy chọn ngày và giờ. Bạn có thể sử dụng tùy chọn này để lên lịch cho các bài viết hoặc tạo bài viết cũ trong WordPress.</p>
+
+
+
+<p><strong>8.</strong> Move to trash cho phép bạn xóa một bài viết WordPress. Các bài viết đã xóa nằm trong thùng rác và bạn có thể khôi phục trong tối đa 30 ngày nếu cần.</p>
+
+
+
+<p><strong>9.</strong> Cuối cùng, nút <strong>Publish</strong> để publish bài viết WordPress của bạn ở chế độ công khai. Hãy nhớ nếu bạn đã lên lịch một bài viết thì bài viết đó sẽ xuất hiện trên trang web của bạn vào ngày và giờ đã lên lịch.</p>
+
+
+
+<h3><strong>Thêm Categories và Tags</strong></h3>
+
+
+
+<p>Bạn có thể sắp xếp các bài viết của mình thành các Categories và Tags. Hộp meta Categories và Tags thường xuất hiện ở cột bên phải bên dưới hộp meta publish.</p>
+
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img class="wp-image-104093" src="https://cunghocwp.com/wp-content/uploads/2020/08/Pasted-756.png.webp" alt="" /></figure>
+</div>
+
+
+
+<p>Bạn có thể sử dụng Categories và tags để sắp xếp nội dung theo định dạng có ý nghĩa và có thể duyệt được.</p>
+
+
+
+<p>Thêm Categories và tags không chỉ giúp người dùng tìm thấy nội dung của bạn dễ dàng mà còn tăng cường SEO cho trang web. Hãy tìm hiểu sự khác biệt giữa các Categories và tags cũng như cách sử dụng để sắp xếp nội dung của bạn.</p>
+
+
+
+<h3><strong>Hình ảnh nổi bật (Hình Thumbnails)</strong></h3>
+
+
+
+<p>Hầu hết các theme WordPress đều hỗ trợ hình ảnh nổi bật hoặc hình Thumbnails. Thông thường, ảnh nằm ở ô cuối cùng trong cột bên phải trên màn hình chỉnh sửa bài viết.</p>
+
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img class="wp-image-104094" src="https://cunghocwp.com/wp-content/uploads/2020/08/Pasted-757.png.webp" alt="" /></figure>
+</div>
+
+
+
+<p>Bạn chỉ cần nhấp vào liên kết <strong>Featured image</strong>. Thao tác này sẽ bật lên một popup của trình upload phương tiện. Bạn có thể chọn một ảnh từ các lần upload trước hoặc upload một hình ảnh mới từ máy tính. Để biết thêm chi tiết, hãy tham khảo hướng dẫn của CunghocWP về cách thêm hình ảnh nổi bật hoặc hình thumbnails trong WordPress.</p>
+
+
+
+<h3><strong>Tùy chọn màn hình</strong></h3>
+
+
+
+<p>Một số tùy chọn trên màn hình chỉnh sửa bài viết được ẩn theo mặc định để mang lại trải nghiệm chỉnh sửa đơn giản và gọn gàng hơn. Những tùy chọn này không được những người dùng mới sử dụng nhiều. Tuy nhiên, sau này bạn có thể sẽ cần đến.</p>
+
+
+
+<p>Click vào <strong>Screen Options</strong> ở góc trên cùng bên phải của trang. Thao tác này sẽ hiển thị menu với các checkbox bên cạnh tên tùy chọn.</p>
+
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img class="wp-image-104095" src="https://cunghocwp.com/wp-content/uploads/2020/08/Pasted-758.jpg.webp" alt="" /></figure>
+</div>
+
+
+
+<p>Một số tùy chọn sẽ được chọn. Đối với các tùy chọn khác, bạn có thể hiển thị bằng cách nhấp vào checkbox bên cạnh tên tùy chọn để tùy chọn đó xuất hiện trên trang chỉnh sửa bài viết.</p>
+
+
+
+<p>Chúng ta hãy cùng xem xét một số tùy chọn này.</p>
+
+
+
+<h4><strong>Excerpt (Trích đoạn)</strong></h4>
+
+
+
+<p>Chọn hộp này sẽ thêm một hộp meta bên dưới trình soạn thảo nội dung của bạn. Bạn có thể sử dụng hộp này để thêm bản tóm tắt hoặc đoạn trích ngắn cho bài viết của mình.</p>
+
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img class="wp-image-104096" src="https://cunghocwp.com/wp-content/uploads/2020/08/Pasted-759.png.webp" alt="" /></figure>
+</div>
+
+
+
+<p>Bạn nên hiển thị phần tóm tắt hoặc phần trích dẫn cho các bài viết của mình trên trang chủ và kho lưu trữ của trang web. Nội dung đầy đủ chỉ nên hiển thị trên trang đơn lẻ của bài viết. Bạn có thể tìm hiểu thêm về điều này trong hướng dẫn về bài viết đầy đủ so với tóm tắt (phần trích dẫn) trong các trang lưu trữ WordPress của chúng tôi.</p>
+
+
+
+<h4><strong>Gửi Trackbacks</strong></h4>
+
+
+
+<p>Tùy chọn Send Trackbacks cho phép bạn thông báo cho các chủ sở hữu blog khác khi bạn đã liên kết với nội dung của họ. Hãy đọc bài viết của CunghocWP về trackback và pingback trong WordPress để tìm hiểu thêm.</p>
+
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img class="wp-image-104097" src="https://cunghocwp.com/wp-content/uploads/2020/08/Pasted-760.png.webp" alt="" /></figure>
+</div>
+
+
+
+<p>Nếu chủ sở hữu blog khác đang sử dụng WordPress thì bạn không cần phải gửi trackback cho họ. Trang web WordPress của bạn sẽ tự động gửi cho họ một ping khi bạn publish bài viết.</p>
+
+
+
+<p>Tính năng trackback bị những kẻ gửi thư rác lạm dụng đến mức nhiều chủ sở hữu trang web phải vô hiệu hóa. CunghocWP có một bài viết về cách xử lý spam theo dõi trong WordPress.</p>
+
+
+
+<h4><strong>Custom Fields (Trường tùy chỉnh)</strong></h4>
+
+
+
+<p>Tùy chọn này sẽ hiển thị giao diện người dùng cho các trường tùy chỉnh bên dưới trình soạn thảo bài viết của bạn. Bạn có thể sử dụng trường này để nhập thủ công thông tin tùy chỉnh vào bài viết của mình. Hãy tham khảo hướng dẫn 101 trường tùy chỉnh WordPress dành cho người dùng mới của CunghocWP để tìm hiểu thêm.</p>
+
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img class="wp-image-104098" src="https://cunghocwp.com/wp-content/uploads/2020/08/Pasted-761.png.webp" alt="" /></figure>
+</div>
+
+
+
+<h4><strong>Discussion (Thảo luận)</strong></h4>
+
+
+
+<p>Mặc dù comment là một cách tuyệt vời để thu hút khán giả nhưng đôi khi bạn có thể không muốn nhận comment về một bài viết hoặc một trang cụ thể.</p>
+
+
+
+<p>Bạn có thể sử dụng tùy chọn <strong>Displays a meta box</strong> bên dưới trình soạn thảo bài viết để bật/tắt comment và pingback cho bài viết.</p>
+
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img class="wp-image-104099" src="https://cunghocwp.com/wp-content/uploads/2020/08/Pasted-762.png.webp" alt="" /></figure>
+</div>
+
+
+
+<p>Vì các trang được cho là giống như các trang tĩnh nên hầu hết người dùng muốn tắt comment. Bạn có thể làm như vậy bằng cách chỉnh sửa từng trang hoặc tắt/vô hiệu hóa comment trên trang web WordPress.</p>
+
+
+
+<p>Khi trang web WordPress của bạn có nhiều người biết tới hơn, bạn sẽ bắt đầu nhận được các spam comment. Thay vì tắt comment, bạn hãy thử các mẹo và công cụ này chống spam comment trong WordPress .</p>
+
+
+
+<h4><strong>Slug</strong></h4>
+
+
+
+<p>Slug là một tiêu đề rõ ràng hơn dược sử dụng trong URL.</p>
+
+
+
+<p><code>http://example.com/2015/07/this-is-post-slug</code></p>
+
+
+
+<p>WordPress tự động tạo slug bài viết và hiển thị dưới dạng URL bài viết ngay bên dưới tiêu đề bài viết. Bạn có thể chỉnh sửa slug URL bằng cách nhấp vào liên kết chỉnh sửa bên dưới tiêu đề bài viết.</p>
+
+
+
+<p>Bạn cũng có thể bật tùy chọn slug từ <strong>Screen Options</strong> và chỉnh sửa slug bài viết ở đó.</p>
+
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img class="wp-image-104100" src="https://cunghocwp.com/wp-content/uploads/2020/08/Pasted-763.png.webp" alt="" /></figure>
+</div>
+
+
+
+<h4><strong>Author</strong></h4>
+
+
+
+<p>WordPress sẽ tự động chỉ định bạn làm tác giả bài viết khi bạn tạo bài viết. Tuy nhiên, đôi khi bạn có thể muốn hiển thị một người dùng khác trên trang web WordPress của mình với tư cách là tác giả bằng cách bật checkbox author từ màn hình chỉnh sửa bài viết.</p>
+
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img class="wp-image-104101" src="https://cunghocwp.com/wp-content/uploads/2020/08/Pasted-764.png.webp" alt="" /></figure>
+</div>
+
+
+
+<h3><strong>Các tùy chọn do Plugin WordPress thêm vào</strong></h3>
+
+
+
+<p>Cho đến nay CunghocWP mới chỉ giải thích các cài đặt chỉnh sửa bài viết WordPress mặc định. Nhiều plugin WordPress cũng sẽ thêm các bảng cài đặt riêng trên màn hình chỉnh sửa bài viết.</p>
+
+
+
+<p>Ví dụ: plugin Yoast WordPress SEO thêm bảng cài đặt riêng.</p>
+
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img class="wp-image-104102" src="https://cunghocwp.com/wp-content/uploads/2020/08/Pasted-765.jpg.webp" alt="" /></figure>
+</div>
+
+
+
+<h2 id="bonustips"><strong>Mẹo bổ sung để tạo các bài viết trên blog tốt hơn</strong></h2>
+
+
+
+<p>WordPress là nền tảng blog phổ biến nhất là vì có một bộ công cụ tuyệt vời giúp bạn tạo nội dung mới ngay lập tức.</p>
+
+
+
+<p>Tuy nhiên, có nhiều công cụ và mẹo khác cũng có thể cải thiện nội dung blog của bạn.</p>
+
+
+
+<p>Mẹo đầu tiên CunghocWP cung cấp cho tất cả những người dùng mới viết blog là tính nhất quán. Hãy thường xuyên publish các bài viết trên blog. Bạn có thể lên kế hoạch cho một lịch biên tập và làm theo.</p>
+
+
+
+<p>Bạn nên bắt đầu với 1 – 2 bài viết mỗi tuần và sau đó tăng dần.</p>
+
+
+
+<p>Thông thường người dùng mới gặp khó khăn trong việc tìm kiếm ý tưởng bài viết cho blog của họ. Đây là danh sách các ý tưởng lớn để viết bài trên blog mà bạn có thể sử dụng.</p>
+
+
+
+<p>Bạn cũng sẽ cần học cách quảng cáo các bài viết của mình và theo dõi mọi thứ. Nhóm của CunghocWP đã chọn ra các công cụ content marketing tốt nhất để giúp bạn phát triển blog của mình.</p>
+
+
+
+<p>CunghocWP hi vọng bài viết này sẽ giúp bạn biết cách thêm một bài viết mới trong WordPress như một người chuyên nghiệp. Bạn cũng có thể muốn xem hướng dẫn SEO WordPress cần thiết để có thêm traffic cho trang web dành cho người dùng mới của chúng tôi.</p>
+
+
+
+<p>Nếu thích bài viết này, hãy theo dõi <a href="https://www.youtube.com/channel/UCoCeFZnSbBj_TyST30rIKrw" target="_blank" rel="noreferrer noopener">YouTube Channel</a> để xem thêm các video hướng dẫn về WordPress. Bạn cũng có thể tìm kiếm chúng tôi trên <a href="https://twitter.com/cunghocwp" target="_blank" rel="noreferrer noopener">Twitter</a> hoặc <a href="https://www.facebook.com/cunghocwpdotcom" target="_blank" rel="noreferrer noopener">Facebook</a>.</p>
+
+
+
+<h3>Like this:</h3>
+
+
+
+<p>Đang tải&#8230;<strong>Thẻ :</strong><a href="https://cunghocwp.com/tag/them-bai-viet-moi-trong-wordpress/">thêm bài viết mới trong WordPress</a></p>
+
+
+
+<ul>
+<li>Xu Hướng</li>
+<li>Bình luận</li>
+<li>Mới nhất</li>
+</ul>
+
+
+
+<p>&nbsp;</p>
+
+
+
+<h3><a href="https://cunghocwp.com/huong-dan-cai-full-demo-jnews-6-5-theme-tin-tuc-so-1-hien-nay/">Hướng dẫn cài full demo JNews 6.5 – theme tin tức số 1 hiện nay</a></h3>
+
+
+
+<p> 09/07/2020</p>
+
+
+
+<h3><a href="https://cunghocwp.com/huong-dan-cho-phep-dang-ky-tai-khoan-tren-wordpress/">Hướng dẫn cho phép đăng ký tài khoản trên WordPress</a></h3>
+
+
+
+<p> 21/05/2020</p>
+
+
+
+<h3><a href="https://cunghocwp.com/html-va-css-la-gi-vai-tro-cua-no-trong-website/">HTML và CSS là gì? vai trò của nó trong website</a></h3>
+
+
+
+<p> 09/07/2020</p>
+
+
+
+<h3><a href="https://cunghocwp.com/cach-doi-ten-files-anh-va-files-media-trong-wordpress/">Cách đổi tên files ảnh và files media trong WordPress</a></h3>
+
+
+
+<p> 21/05/2020QUẢNG CÁO</p>
+
+
+
+<h3>Bài viết mới nhất</h3>
+
+
+
+<p>&nbsp;</p>
+
+
+
+<h3><a href="https://cunghocwp.com/theme-wordpress-tot-nhat-danh-cho-cac-dai-ly-xe-hoi/">21 theme WordPress tốt nhất dành cho các đại lý xe hơi</a></h3>
+
+
+
+<p> 05/10/2020</p>
+
+
+
+<h3><a href="https://cunghocwp.com/plugin-dat-cho-va-dat-lich-hen-wordpress/">6 plugin đặt chỗ và đặt lịch hẹn WordPress tốt nhất</a></h3>
+
+
+
+<p> 05/10/2020</p>
+
+
+
+<h3><a href="https://cunghocwp.com/chi-phi-xay-dung-mot-website-wordpress/">Chi phí xây dựng một website WordPress là bao nhiêu?</a></h3>
+
+
+
+<p> 05/10/2020</p>
+
+
+
+<h3><a href="https://cunghocwp.com/theme-wordpress-thich-hop-nhat-danh-cho-website-ve-crossfit/">25 theme WordPress thích hợp nhất dành cho website về Crossfit</a></h3>
+
+
+
+<p> 05/10/2020</p>
+
+
+
+<h3><a href="https://cunghocwp.com/them-bai-viet-moi-trong-wordpress/">Hướng dẫn thêm bài viết mớ</a></h3>
+
+
+
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/laptop-may-tinh-bang-msi-acer/laptop/feed/</wfw:commentRss>
+			<slash:comments>6</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
